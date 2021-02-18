@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/syf/Unity/quattrocento/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/home/syf/Unity/quattrocento/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/syf/Unity/quattrocento/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/home/syf/Unity/quattrocento/Assembly-CSharp.csproj",
+        "packagesPath": "/home/syf/.nuget/packages/",
+        "outputPath": "/home/syf/Unity/quattrocento/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/syf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

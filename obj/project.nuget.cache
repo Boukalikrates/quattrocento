@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YERaBXr0DxI1yqq5x+JquXa2g3KyO/OyDxktiBkrhUMN5Ikw3I1plshTx7+NmsbSrmtp2a6CP9AnS60Y1tam5A==",
+  "success": true,
+  "projectFilePath": "/home/syf/Unity/quattrocento/Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/syf/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
